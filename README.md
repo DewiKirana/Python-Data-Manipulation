@@ -18,7 +18,7 @@ Question no 7 is additional question that used datasets from 'players_15.csv' un
 3. "Great" : If overall score is 70 until 80
 4. "Average" : If overall score is 60 until 70
 5. "Low Class" : If overall score is 50 until 60
-6. "Bottom Class" : Jika overall bernilai until 50
+6. "Bottom Class" : If overall score is under 50
 
 * Question number 6, how many England players that fall into 'Bottom Class'
 
